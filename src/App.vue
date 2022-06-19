@@ -1,5 +1,4 @@
 <script setup lang="ts">
-import { RouterLink, RouterView } from 'vue-router'
 import TopBarVue from './components/Top-Bar.vue';
 import TopBar from './components/Top-Bar.vue';
 </script>
